@@ -1,0 +1,20 @@
+.jumbotron {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	background: rgb(2,0,36);
+	background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(2,0,36,1) 100%);
+	color:  white;
+}
+
+.atas {
+	font-family: Poppins;
+	background-color: #ffffff;
+	padding: 1rem;
+}
+.atas-judul {
+	font-family: Poppins;
+	font-weight: bold;
+	background: -webkit-linear-gradient(#020024, #090979, #020024);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
